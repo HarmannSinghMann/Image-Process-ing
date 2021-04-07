@@ -19,7 +19,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 ## 5. Contrast
 
-![](output/contrast/c_contrast_-0.5.jpg =250x250)![](output/contrast/c_contrast_0.0.jpg)![](output/contrast/c_contrast_0.5.jpg)
+![](output/contrast/c_contrast_-0.5.jpg|width=100)![](output/contrast/c_contrast_0.0.jpg)![](output/contrast/c_contrast_0.5.jpg)
 ![](output/contrast/c_contrast_2.0.jpg)
 
 ## 6. Composite
