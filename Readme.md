@@ -18,7 +18,6 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 ![](output/sharpen/sharpen.jpg)
 
 ## 5. Contrast
-
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_-0.5.jpg" align="left" height="134" width="200" ></a>
 
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.0.jpg" align="left" height="134" width="200" ></a>
@@ -28,7 +27,6 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.0.jpg" align="left" height="134" width="200" ></a>
 <br>
 
-<br>
 ## 6. Composite
 ![](input/comp_background.jpg)![](input/comp_foreground.jpg)![](input/comp_mask.jpg)![](output/comp/composite.jpg)
 
