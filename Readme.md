@@ -5,7 +5,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 # Description of code :
 ## Nature : 
 This code takes in an image as input and gives output of all the functions (image processing operations) defined by me . The core of all operations is the CONVOLUTION operation of the matrices . 
-![](input/convolution_ope.png) 
+![](input/convolution ope.png) 
 
 
 ## This code contains the following functions :
