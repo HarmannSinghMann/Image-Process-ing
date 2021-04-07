@@ -4,7 +4,9 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 # Description of code :
 ## Nature : 
-This code takes in an image as input and gives output of all the functions (image processing operations) defined by me . The core of all operations is the CONVOLUTION oepration of the matrices . 
+This code takes in an image as input and gives output of all the functions (image processing operations) defined by me . The core of all operations is the CONVOLUTION operation of the matrices . 
+
+
 
 ## This code contains the following functions :
 - Normalize Data - This function Normalizes the data in the range [0,1]                                - Parameter : (Image)
