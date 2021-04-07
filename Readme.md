@@ -9,8 +9,10 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 # Filters: 
 ## 1. Brightness 
-![](output/bright/princeton_small_brightness_0.jpg) ![](output/bright/princeton_small_brightness_0.5.jpg) ![](output/bright/princeton_small_brightness_2.0.jpg) 
-<text>Brihtness actor 0</text>
+![](output/bright/princeton_small_brightness_0.jpg)![](output/bright/princeton_small_brightness_0.5.jpg) ![](output/bright/princeton_small_brightness_2.0.jpg) 
+<br>
+<text>Brightness factor 0</text>
+
 
 ## 2. Blurr
 ![](output/blur/blur_0.125.jpg) ![](output/blur/blur_2.jpg) ![](output/blur/blur_8.jpg)
