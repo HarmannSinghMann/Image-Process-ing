@@ -46,6 +46,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 <br>
 <br>
 <br>
+<br> <br>
 <br>
 - Image 1 : Contrast Factor = -0.5 
 - Image 2 : Contrast Factor = 0.0
