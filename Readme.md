@@ -61,10 +61,5 @@ This code takes in an image as input and gives output of all the functions (imag
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="134" width="200" ></a>
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.0.jpg" align="left" height="134" width="200" ></a>
 </div>
-<hr>
-<br>
-<br>
-<br>
-<br> <br>
-<br>
+
 
