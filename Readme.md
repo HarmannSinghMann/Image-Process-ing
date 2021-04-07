@@ -36,6 +36,10 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 ![](output/sharpen/sharpen.jpg)
 
 ## 5. Contrast
+- Image 1 : Contrast Factor = -0.5 
+- Image 2 : Contrast Factor = 0.0
+- Image 3 : Contrast Factor = 0.5
+- Image 4 : Contrast Factor = 2.0
 <div class='container'>
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_-0.5.jpg" align="left" height="134" width="200" ></a>
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.0.jpg" align="left" height="134" width="200" ></a>
@@ -48,7 +52,4 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 <br>
 <br> <br>
 <br>
-- Image 1 : Contrast Factor = -0.5 
-- Image 2 : Contrast Factor = 0.0
-- Image 3 : Contrast Factor = 0.5
-- Image 4 : Contrast Factor = 2.0
+
