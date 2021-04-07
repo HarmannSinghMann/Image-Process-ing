@@ -22,9 +22,9 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 ![](output/blur/blur_0.125.jpg) ![](output/blur/blur_2.jpg) ![](output/blur/blur_8.jpg)
 <br>
-Image 1 : Blurr Factor = 0.125 
-Image 2 : Blurr Factor = 2
-Image 3 : Blurr Factor = 8
+- Image 1 : Blurr Factor = 0.125 
+- Image 2 : Blurr Factor = 2
+- Image 3 : Blurr Factor = 8
 
 
 ## 3. Edge Detection
