@@ -38,11 +38,8 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 ## 5. Contrast
 <div class='container'>
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_-0.5.jpg" align="left" height="134" width="200" ></a>
-
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.0.jpg" align="left" height="134" width="200" ></a>
-
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="134" width="200" ></a>
-
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.0.jpg" align="left" height="134" width="200" ></a>
 </div>
 <hr>
