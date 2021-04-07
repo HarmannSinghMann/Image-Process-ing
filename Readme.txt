@@ -1,12 +1,9 @@
-Hey
+#Image Processing - without OpenCV
 
-I am hands on with python and due to my tight job(present) contraints , I have formulated my submission in python only.
-Hoping this wont hurt my candidature .
+I have been extensively using OpenCv for image processing operations. This made me wonder to bulit my own code for Image-Processing Opeartions.
 
 My submission - 'solution.py'.
 
-This code runs by default - if you have the following dependencies installed just run it through your editor . 
-Press any key to kill the code or the display windows 
 
 Please pip install the following dependencies to run my submission :
 1.Python 
