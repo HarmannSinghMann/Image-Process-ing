@@ -4,7 +4,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 # Filters: 
 ## 1. Brightness 
-![](output/bright/princeton_small_brightness_2.0.jpg) ![](output/bright/princeton_small_brightness_0.5.jpg)
+![](output/bright/princeton_small_brightness_0.jpg) ![](output/bright/princeton_small_brightness_0.5.jpg) ![](output/bright/princeton_small_brightness_2.0.jpg) 
 
 
 ## 3. Blurr
