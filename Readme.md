@@ -3,8 +3,7 @@
 Hey , I have been using OpenCv extensively for the past few months and I thought its time for my own implementation of the Image Processing Filters using python.
 
 ## Input Images
-1. ![](input/princeton_small.jpg) 
-2. ![](output/c.jpg)
+![](input/princeton_small.jpg)  ![](input/c.jpg)
 
 
 # Filters: 
