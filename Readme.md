@@ -9,24 +9,30 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 # Filters: 
 ## 1. Brightness 
+### This Function changes the brighness of the image by the given factor .
 
 ![](output/bright/princeton_small_brightness_0.jpg)![](output/bright/princeton_small_brightness_0.5.jpg) ![](output/bright/princeton_small_brightness_2.0.jpg) 
 <br>
 - Image 1: Brightness Factor = 0 
 - Image 2: Brightness Factor = 0.5 
-- imag2 3: Brightness Factor = 2.0
+- image 3: Brightness Factor = 2.0
 
 ## 2. Blurr
+### This function performs the blurr operation on the image by the factor of sigma.
+
+![](output/blur/blur_0.125.jpg) ![](output/blur/blur_2.jpg) ![](output/blur/blur_8.jpg)
+<br>
 Image 1 : Blurr Factor = 0.125 
 Image 2 : Blurr Factor = 2
 Image 3 : Blurr Factor = 8
-![](output/blur/blur_0.125.jpg) ![](output/blur/blur_2.jpg) ![](output/blur/blur_8.jpg)
 
 
 ## 3. Edge Detection
+### This function performs the edge detection on the image by using the edge kernel([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
 ![](output/edge_d/edgedetect.jpg)
 
 ## 4. Sharpen
+### This function performs the edge detection on the image by using the edge kernel([[-1, -1, -1], [-1, 9, -1], [-1, -1, -1]])
 ![](output/sharpen/sharpen.jpg)
 
 ## 5. Contrast
