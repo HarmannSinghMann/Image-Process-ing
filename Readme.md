@@ -2,6 +2,20 @@
 
 Hey , I have been using OpenCv extensively for the past few months and I thought its time for my own implementation of the Image Processing Filters using python.
 
+# Description of code :
+## Nature : 
+This code takes in an image as input and gives output of all the functions (image processing operations) defined by me .
+
+## This code contains the following functions :
+- Normalize Data - This function Normalizes the data in the range [0,1]                                - Parameter : (Image)
+- brightness     - This Function changes the brighness of the image by the given factor                - Parameter : (Image,Brightness Factor)
+- convolution    - This Function changes the brighness of the image by the given factor                - Parameter : (Image , kernel to convolute)
+- Blur           - This function performs the blurr operation on the image by the factor of sigma      - Parameter : (Image , Blur factor-Sigma)
+- contrast       - This operations changes the contrast of the image by the given factor               - Parameter : (Image , Contrast factor)
+- composite      - This function Produces the composite of images provided all 3 parameters are given  - Parameter : (Image)
+- ReadImage      - This function is used to read the image from the given path
+
+
 ## Input Images
 ![](input/princeton_small.jpg) 
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/input/c.jpg" align="left" height="134" width="200" ></a>
