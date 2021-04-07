@@ -4,7 +4,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 ## Input Images
 ![](input/princeton_small.jpg) 
-<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/input/c.jpg" align="center" height="134" width="200" ></a>
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/input/c.jpg" align="middle" height="134" width="200" ></a>
 
 
 # Filters: 
