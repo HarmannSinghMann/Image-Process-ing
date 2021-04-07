@@ -28,11 +28,11 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 
 ## 3. Edge Detection
-### This function performs the edge detection on the image by using the edge kernel([[-1, -1, -1], [-1, 8, -1], [-1, -1, -1]])
+### This function performs the edge detection on the image by using the edge kernel(refer Readme.txt )
 ![](output/edge_d/edgedetect.jpg)
 
 ## 4. Sharpen
-### This function performs the edge detection on the image by using the edge kernel([[-1, -1, -1], [-1, 9, -1], [-1, -1, -1]])
+### This function performs the edge detection on the image by using the edge kernel(refer Readme.txt)
 ![](output/sharpen/sharpen.jpg)
 
 ## 5. Contrast
@@ -43,3 +43,9 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="134" width="200" ></a>
 
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.0.jpg" align="left" height="134" width="200" ></a>
+
+<br>
+- Image 1 : Contrast Factor = -0.5 
+- Image 2 : Contrast Factor = 0.0
+- Image 3 : Contrast Factor = 0.5
+- Image 4 : Contrast Factor = 2.0
