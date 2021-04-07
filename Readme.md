@@ -25,7 +25,9 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 <a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="134" width="200" ></a>
 
-<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.5.jpg" align="left" height="134" width="200" ></a>
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.0.jpg" align="left" height="134" width="200" ></a>
+<br>
+
 
 ## 6. Composite
 ![](output/comp/composite.jpg)
