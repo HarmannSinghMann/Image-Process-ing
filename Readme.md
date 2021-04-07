@@ -30,7 +30,7 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 
 ## 6. Composite
-![](output/comp/composite.jpg)
+![](input/comp_background.jpg)![](input/comp_foreground.jpg)![](input/comp_mask.jpg)![](output/comp/composite.jpg)
 
 
 To run my code Kindly follow the Readme.txt
