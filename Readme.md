@@ -19,10 +19,13 @@ Hey , I have been using OpenCv extensively for the past few months and I thought
 
 ## 5. Contrast
 
-![](output/contrast/c_contrast_-0.5.jpg){:height="200px" width="500px"}![](output/contrast/c_contrast_0.0.jpg|width=100)![](output/contrast/c_contrast_0.5.jpg|width=100)
-![](output/contrast/c_contrast_2.0.jpg|width=100)
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_-0.5.jpg" align="left" height="134" width="200" ></a>
 
-<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="100" width="100" ></a>
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.0.jpg" align="left" height="134" width="200" ></a>
+
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_0.5.jpg" align="left" height="134" width="200" ></a>
+
+<a href="url"><img src="https://github.com/HarmannSinghMann/Image-Process-ing/blob/main/output/contrast/c_contrast_2.5.jpg" align="left" height="134" width="200" ></a>
 
 ## 6. Composite
 ![](output/comp/composite.jpg)
